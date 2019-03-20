@@ -1,3 +1,40 @@
 # Here ya go!
-#
+tap 'caskroom/cask'
+tap 'github/bootstrap'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'homebrew/services'
+
+brew 'postgresql'
+brew 'rbenv'
+brew 'git'
+brew 'zsh'
+brew 'mas'
+brew 'python'
+brew 'sqlite'
+brew 'tree'
+brew 'node'
+brew 'heroku'
+brew 'heroku-node'
+brew 'pkg-config'
+brew 'core-utils'
+
+cask 'atom'
+cask 'carbon-copy-cloner'
+cask 'flux'
+cask 'google-chrome'
+cask 'sketch'
+cask 'slack'
+cask 'slate'
+cask 'spotify'
+cask 'zoomus'
 # brew 'zsh'
+
+
+mas 'Pages', id: 409201541
+mas 'Xcode', id: 497799835
+mas 'Paste', id: 967805235
+mas 'WiFi Signal', id: 525912054
+mas 'Trello', id: 1278508951
+mas 'Message+', id: 885557198
+mas 'Battery Health 2', id: 1120214373
