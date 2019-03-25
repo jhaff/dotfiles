@@ -17,7 +17,9 @@ brew 'node'
 brew 'pkg-config'
 brew 'coreutils'
 brew 'zsh'
+brew 'mysql'
 
+cask 'mysqlworkbench'
 cask 'atom'
 cask 'carbon-copy-cloner'
 cask 'flux'
@@ -37,6 +39,7 @@ cask 'adobe-acrobat-reader'
 cask 'transmission'
 cask 'teamviewer'
 cask 'vlc'
+cask 'tuple'
 
 # brew 'zsh'
 

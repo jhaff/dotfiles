@@ -14,3 +14,15 @@ if [ -d .git ]; then
 else
   git clone https://github.com/robbyrussell/oh-my-zsh ~/dev/robbyrussell/oh-my-zsh
 fi;
+
+echo yeet
+
+# cd ..
+
+# mkdir -p ~/zpresto
+# cd ~/zpresto
+# if [ -d .git ]; then
+#   git pull
+# else
+#   git clone --recursive https://github.com/robbyrussell/oh-my-zsh ~/dev/robbyrussell/oh-my-zsh
+# fi;
