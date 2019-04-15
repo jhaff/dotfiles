@@ -40,6 +40,10 @@ cask 'transmission'
 cask 'teamviewer'
 cask 'vlc'
 cask 'tuple'
+cask 'dash'
+cask 'cheatsheet'
+cask 'zeplin'
+cask 'amethyst'
 
 # brew 'zsh'
 

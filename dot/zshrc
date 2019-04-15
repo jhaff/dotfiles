@@ -13,6 +13,9 @@ ZSH_CUSTOM=~/.oh-my-zsh/custom
 # Enable case sensitive completion
 export CASE_SENSITIVE="true"
 
+# add atom as the editor
+export EDITOR="atom -w"
+
 # Disable autocorrect
 unsetopt correct_all
 
@@ -20,7 +23,7 @@ unsetopt correct_all
 eval "$(rbenv init -)"
 
 # Enable nodenv
-# eval "$(nodenv init -)"
+eval "$(nodenv init -)"
 plugins=(git ruby)
 
 source $ZSH/oh-my-zsh.sh
