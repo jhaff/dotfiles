@@ -44,6 +44,10 @@ cask 'dash'
 cask 'cheatsheet'
 cask 'zeplin'
 cask 'amethyst'
+cask '1password'
+cask 'istat-menus'
+cask 'eqmac'
+cask 'github'
 
 # brew 'zsh'
 
