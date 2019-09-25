@@ -18,6 +18,7 @@ brew 'pkg-config'
 brew 'coreutils'
 brew 'zsh'
 brew 'mysql'
+brew 'kubectl'
 
 cask 'mysqlworkbench'
 cask 'atom'
@@ -52,7 +53,6 @@ cask 'corsair-icue'
 cask 'docker'
 cask 'virtualbox'
 cask 'minikube'
-cask 'kubectl'
 
 # brew 'zsh'
 
